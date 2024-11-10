@@ -1,3 +1,8 @@
+#PUEDE ENCONTRAR EL CASO FINAL EN GITHUB Y COLAB:
+#https://github.com/dnnygmez11/DataScience/tree/main/Caso%20Final
+#https://colab.research.google.com/drive/1zzfLjha3flmYQB1tFuv72REAkloE-RiN?usp=sharing
+
+#EJERCICIO 8 MODULO 1
 def es_num_primo(n):
     if n < 2:
         return False
